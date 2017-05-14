@@ -1,0 +1,1 @@
+python "knnAndWeightedKNN1.py"
